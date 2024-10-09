@@ -22,6 +22,7 @@
 | [科研废物导航 (yanweb.top)](https://www.yanweb.top/)         | 科研工具集合        | 工具集   |
 | [Convertio — 文件转换器](https://convertio.co/zh/)           | 文件转换            | 工作效率 |
 | [LaTeX公式编辑器 (latexlive.com)](https://www.latexlive.com/) | 在线LaTeX公式编辑器 | 工作效率 |
+| [Word/PPT代码高亮](http://word.wd1x.com/) | Word/PPT代码高亮，数模可用 | 工作效率 |
 
 ## 宝藏网站
 
@@ -31,9 +32,10 @@
 | [Mockup Generator & Animator 3D Rotato](https://rotato.app/) | 轻松渲染3D展示动画，含大量3D模型 |      |
 | [Free Google Slides themes and Powerpoint templates Slidesgo](https://slidesgo.com/) | 幻灯片模板集                     |      |
 | [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)               | CS自学网站，方向丰富             |      |
-| [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                   |      |
 | [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | 数据结构与算法，可视化           |      |
 | [OI Wiki](https://oi.wiki/)                                  | 经典数据结构与算法wiki           |      |
+| [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                   |      |
+| [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集 |      |
 
 ## 前端开发
 
@@ -42,7 +44,7 @@
 | [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)      | 图标库，可自定义颜色                | 图标库 |
 | [Beautiful CSS box-shadow examples (getcssscan.com)](https://getcssscan.com/css-box-shadow-examples) | box阴影样式预览选择，点击可复制代码 | 美化   |
 | [The Largest Library of Open-Source UI elements](https://uiverse.io/) | 最强组件库                          | 组件库 |
-| [主题定制 Vue DevUI](https://vue-devui.github.io/theme-guide/) | 框架无关的主题定制UI库              | 组件库 |
+| [Vue DevUI 主题定制](https://vue-devui.github.io/theme-guide/) | 框架无关的主题定制UI库              | 组件库 |
 | [arco.design](https://arco.design/)                          | React和Vue组件库                    | 组件库 |
 | [Ant Design Vue (antdv.com)](https://www.antdv.com/components/overview-cn) | Web高阶组件库                       | 组件库 |
 | [CSS＊GG • The CSS Icon Library](https://css.gg/app)         | Icon图标库                          | 图标库 |
