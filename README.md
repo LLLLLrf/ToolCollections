@@ -2,6 +2,7 @@
 - [AI生产力](#ai生产力)
 - [高效工作](#高效工作)
 - [宝藏网站](#宝藏网站)
+- [宝藏仓库](#宝藏仓库)
 - [前端开发](#前端开发)
 - [宝藏课程](#宝藏课程)
 
@@ -23,6 +24,8 @@
 | [Convertio — 文件转换器](https://convertio.co/zh/)           | 文件转换            | 工作效率 |
 | [LaTeX公式编辑器 (latexlive.com)](https://www.latexlive.com/) | 在线LaTeX公式编辑器 | 工作效率 |
 | [Word/PPT代码高亮](http://word.wd1x.com/) | Word/PPT代码高亮，数模可用 | 工作效率 |
+| [模型可视化](https://github.com/lutzroeder/netron) | 支持多种模型格式，便捷好用 | 工作效率 |
+| [Waka Time](https://wakatime.com/dashboard) | 记录工作量的插件，可与github交互 | 工作记录   |
 
 ## 宝藏网站
 
@@ -37,17 +40,30 @@
 | [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                   |      |
 | [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集 |      |
 
+## 宝藏仓库
+| name                                                         | description                         | type   |
+| ------------------------------------------------------------ | ----------------------------------- | ------ |
+| [Pytorch 入门](https://github.com/yunjey/pytorch-tutorial) | Pytorch入门 基础实战代码 | 实战教程 |
+| [LLM 入门](https://github.com/datawhalechina/llm-cookbook) | LLM入门汇总 | 实战教程 |
+| [ChatTTS 入门](https://github.com/xiciliu/Awesome-ChatTTS-2) | ChatTTS入门汇总 | 实战教程 |
+| [Chinese LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 中文LLM合集 | 合集 |
+| [HowToCook 炒菜入门](https://github.com/Anduin2017/HowToCook) | 菜谱合集 | 合集 |
+| [YesPlayMusic 音乐播放器](https://github.com/qier222/YesPlayMusic) | 开源音乐播放器 | 项目 |
+| [Detectron2](https://github.com/facebookresearch/detectron2) | 支持各种cv任务 | 项目 |
+| [GPA Calculate](https://github.com/LLLLLrf/GPA-Calculate) | 每一个**SCNUer**都需要它（夹带私货） | 项目 |
+
 ## 前端开发
 
 | name                                                         | description                         | type   |
 | ------------------------------------------------------------ | ----------------------------------- | ------ |
-| [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)      | 图标库，可自定义颜色                | 图标库 |
 | [Beautiful CSS box-shadow examples (getcssscan.com)](https://getcssscan.com/css-box-shadow-examples) | box阴影样式预览选择，点击可复制代码 | 美化   |
 | [The Largest Library of Open-Source UI elements](https://uiverse.io/) | 最强组件库                          | 组件库 |
 | [Vue DevUI 主题定制](https://vue-devui.github.io/theme-guide/) | 框架无关的主题定制UI库              | 组件库 |
 | [arco.design](https://arco.design/)                          | React和Vue组件库                    | 组件库 |
 | [Ant Design Vue (antdv.com)](https://www.antdv.com/components/overview-cn) | Web高阶组件库                       | 组件库 |
+| [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)      | 图标库，可自定义颜色                | 图标库 |
 | [CSS＊GG • The CSS Icon Library](https://css.gg/app)         | Icon图标库                          | 图标库 |
+| [Flutter 资源集合](https://github.com/osoutpost/awesome-flutter-cn) | Flutter资源库 | 模板库 |
 
 ## 宝藏课程
 
@@ -56,9 +72,9 @@
 | [大模型时代下做科研的四个思路](https://www.bilibili.com/video/BV1oX4y1d7X6/?spm_id_from=333.999.0.0) | 李沐合创，高算力大模型背景下的科研思路 | 科研 |
 | [李沐讲座：大语言模型的实践经验和未来预测](https://www.bilibili.com/video/BV1dHWkewEWz/?spm_id_from=333.337.search-card.all.click) | 李沐讲座                                   | 讲座 |
 | [吴恩达：基于LangChain的大语言模型开发+RAG应用](https://www.bilibili.com/video/BV1XC411n72m/?spm_id_from=333.999.0.0) | LangChain实现RAG                           | llm  |
-| [五分钟教你在嵌入式平台部署YOLO](https://www.bilibili.com/video/BV1Qm421g7g1/?spm_id_from=333.1007.tianma.3-4-10.click&vd_source=16ba9174a1902767067404e100760264) | 嵌入式平台部署模型                         | 部署 |
 | [RAG企业项目实战：从零开始搭建RAG系统](https://www.bilibili.com/video/BV1nqs6eTEsG/?spm_id_from=333.999.0.0&vd_source=16ba9174a1902767067404e100760264) | RAG实战                                    | llm  |
 | [企业项目实战：搭建一套属于你的智能体](https://www.bilibili.com/video/BV1NEHLeYEsU/?spm_id_from=333.999.0.0) | Agent实战                                  | llm  |
-| [(StableDiffusion) DreamBooth流程全解](https://www.bilibili.com/video/BV1Wc411T7Vt/?spm_id_from=333.999.0.0) | DreamBooth的Few-Shot微调                   | cv   |
 | [AI老兵文哲-个人主页](https://space.bilibili.com/472543316/?spm_id_from=333.999.0.0) | 主要讲LLM技术，概念性入门                  | llm  |
+| [五分钟教你在嵌入式平台部署YOLO](https://www.bilibili.com/video/BV1Qm421g7g1/?spm_id_from=333.1007.tianma.3-4-10.click&vd_source=16ba9174a1902767067404e100760264) | 嵌入式平台部署模型                         | 部署 |
+| [(StableDiffusion) DreamBooth流程全解](https://www.bilibili.com/video/BV1Wc411T7Vt/?spm_id_from=333.999.0.0) | DreamBooth的Few-Shot微调                   | cv   |
 
