@@ -24,7 +24,7 @@
 | [Convertio — 文件转换器](https://convertio.co/zh/)           | 文件转换            | 工作效率 |
 | [LaTeX公式编辑器 (latexlive.com)](https://www.latexlive.com/) | 在线LaTeX公式编辑器 | 工作效率 |
 | [Word/PPT代码高亮](http://word.wd1x.com/) | Word/PPT代码高亮，数模可用 | 工作效率 |
-| [模型可视化](https://github.com/lutzroeder/netron) | 支持多种模型格式，便捷好用 | 工作效率 |
+| [Netron 模型可视化](https://github.com/lutzroeder/netron) | 支持多种模型格式，便捷好用 | 工作效率 |
 | [Waka Time](https://wakatime.com/dashboard) | 记录工作量的插件，可与github交互 | 工作记录   |
 
 ## 宝藏网站
