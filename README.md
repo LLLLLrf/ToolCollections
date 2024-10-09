@@ -51,9 +51,9 @@
 
 | name                                                         | description                                | type |
 | ------------------------------------------------------------ | ------------------------------------------ | ---- |
-| [大模型时代下做科研的四个思路](https://www.bilibili.com/video/BV1oX4y1d7X6/?spm_id_from=333.999.0.0) | 李沐合创课程，高算力大模型背景下的科研思路 | 科研 |
+| [大模型时代下做科研的四个思路](https://www.bilibili.com/video/BV1oX4y1d7X6/?spm_id_from=333.999.0.0) | 李沐合创，高算力大模型背景下的科研思路 | 科研 |
 | [李沐讲座：大语言模型的实践经验和未来预测](https://www.bilibili.com/video/BV1dHWkewEWz/?spm_id_from=333.337.search-card.all.click) | 李沐讲座                                   | 讲座 |
-| [吴恩达：基于LangChain的大语言模型应用开发+RAG模型应用](https://www.bilibili.com/video/BV1XC411n72m/?spm_id_from=333.999.0.0) | LangChain实现RAG                           | llm  |
+| [吴恩达：基于LangChain的大语言模型开发+RAG应用](https://www.bilibili.com/video/BV1XC411n72m/?spm_id_from=333.999.0.0) | LangChain实现RAG                           | llm  |
 | [五分钟教你在嵌入式平台部署YOLO](https://www.bilibili.com/video/BV1Qm421g7g1/?spm_id_from=333.1007.tianma.3-4-10.click&vd_source=16ba9174a1902767067404e100760264) | 嵌入式平台部署模型                         | 部署 |
 | [RAG企业项目实战：从零开始搭建RAG系统](https://www.bilibili.com/video/BV1nqs6eTEsG/?spm_id_from=333.999.0.0&vd_source=16ba9174a1902767067404e100760264) | RAG实战                                    | llm  |
 | [企业项目实战：搭建一套属于你的智能体](https://www.bilibili.com/video/BV1NEHLeYEsU/?spm_id_from=333.999.0.0) | Agent实战                                  | llm  |
