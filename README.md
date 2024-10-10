@@ -14,7 +14,7 @@
 | [OpenRead](https://www.openread.academy/zh)   | 科研文献搜索、总结、生成关系网，也可自行上传pdf          | 文献阅读 |
 | [WolframAlpha](https://www.wolframalpha.com/) | 计算搜索引擎，复杂计算、可视化，可信度高，不支持中文     | 数据计算 |
 | [v0 by Vercel](https://v0.dev/chat)           | 开发必备，直接生成可用的ui界面，支持vue, react等各种语言 | 应用开发 |
-| [txyz.ai](https://www.txyz.ai/)               | 论文总结工具                                             | 文献阅读 |
+| [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                   | 文献阅读 |
 
 ## 高效工作
 
@@ -46,7 +46,7 @@
 | [Pytorch 入门](https://github.com/yunjey/pytorch-tutorial) | Pytorch入门 基础实战代码 | 实战教程 |
 | [LLM 入门](https://github.com/datawhalechina/llm-cookbook) | LLM入门汇总 | 实战教程 |
 | [ChatTTS 入门](https://github.com/xiciliu/Awesome-ChatTTS-2) | ChatTTS入门汇总 | 实战教程 |
-| [AI Conference Papers: Handbook for beginners](https://github.com/hzwer/WritingAIPaper) | 新手AI顶会写作指南 |
+| [AI Conference Papers: Handbook for beginners](https://github.com/hzwer/WritingAIPaper) | 新手AI顶会写作指南 |　教程　｜
 | [Chinese LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 中文LLM合集 | 合集 |
 | [HowToCook 炒菜入门](https://github.com/Anduin2017/HowToCook) | 菜谱合集 | 合集 |
 | [YesPlayMusic 音乐播放器](https://github.com/qier222/YesPlayMusic) | 开源音乐播放器 | 项目 |
