@@ -46,7 +46,7 @@
 | [Pytorch 入门](https://github.com/yunjey/pytorch-tutorial) | Pytorch入门 基础实战代码 | 实战教程 |
 | [LLM 入门](https://github.com/datawhalechina/llm-cookbook) | LLM入门汇总 | 实战教程 |
 | [ChatTTS 入门](https://github.com/xiciliu/Awesome-ChatTTS-2) | ChatTTS入门汇总 | 实战教程 |
-| [AI Conference Papers: Handbook for beginners](https://github.com/hzwer/WritingAIPaper) | 新手AI顶会写作指南 |　教程　|
+| [AI Conference Papers: Handbook for beginners](https://github.com/hzwer/WritingAIPaper) | 新手AI顶会写作指南 | 教程 |
 | [CVPR开源项目汇总](https://github.com/amusi/CVPR2024-Papers-with-Code) | 历年CVPR合集 | 合集 |
 | [ECCV开源项目汇总](https://github.com/amusi/ECCV2024-Papers-with-Code) | 历年ECCV合集 | 合集 |
 | [Chinese LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 中文LLM合集 | 合集 |
