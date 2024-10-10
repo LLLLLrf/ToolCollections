@@ -46,6 +46,7 @@
 | [Pytorch 入门](https://github.com/yunjey/pytorch-tutorial) | Pytorch入门 基础实战代码 | 实战教程 |
 | [LLM 入门](https://github.com/datawhalechina/llm-cookbook) | LLM入门汇总 | 实战教程 |
 | [ChatTTS 入门](https://github.com/xiciliu/Awesome-ChatTTS-2) | ChatTTS入门汇总 | 实战教程 |
+| [AI Conference Papers: Handbook for beginners](https://github.com/hzwer/WritingAIPaper) | 新手AI顶会写作指南 |
 | [Chinese LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 中文LLM合集 | 合集 |
 | [HowToCook 炒菜入门](https://github.com/Anduin2017/HowToCook) | 菜谱合集 | 合集 |
 | [YesPlayMusic 音乐播放器](https://github.com/qier222/YesPlayMusic) | 开源音乐播放器 | 项目 |
