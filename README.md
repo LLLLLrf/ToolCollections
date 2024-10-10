@@ -15,12 +15,14 @@
 | [WolframAlpha](https://www.wolframalpha.com/) | 计算搜索引擎，复杂计算、可视化，可信度高，不支持中文     | 数据计算 |
 | [v0 by Vercel](https://v0.dev/chat)           | 开发必备，直接生成可用的ui界面，支持vue, react等各种语言 | 应用开发 |
 | [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                   | 文献阅读 |
+| [JournalFinder](https://journalfinder.elsevier.com/) | 根据摘要关键词找寻适合的期刊
 
 ## 高效工作
 
 | name                                                         | description         | type     |
 | ------------------------------------------------------------ | ------------------- | -------- |
 | [科研废物导航 (yanweb.top)](https://www.yanweb.top/)         | 科研工具集合        | 工具集   |
+| [Scopus](https://www.scopus.com/) | 根据作者和机构检索文献 | 工作效率 |
 | [Convertio — 文件转换器](https://convertio.co/zh/)           | 文件转换            | 工作效率 |
 | [LaTeX公式编辑器 (latexlive.com)](https://www.latexlive.com/) | 在线LaTeX公式编辑器 | 工作效率 |
 | [Word/PPT代码高亮](http://word.wd1x.com/) | Word/PPT代码高亮，数模可用 | 工作效率 |
