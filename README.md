@@ -84,6 +84,6 @@
 | [企业项目实战：搭建一套属于你的智能体](https://www.bilibili.com/video/BV1NEHLeYEsU/?spm_id_from=333.999.0.0) | Agent实战                                  | llm  |
 | [AI老兵文哲-个人主页](https://space.bilibili.com/472543316/?spm_id_from=333.999.0.0) | 主要讲LLM技术，概念性入门                  | llm  |
 | [五分钟教你在嵌入式平台部署YOLO](https://www.bilibili.com/video/BV1Qm421g7g1/?spm_id_from=333.1007.tianma.3-4-10.click&vd_source=16ba9174a1902767067404e100760264) | 嵌入式平台部署模型                         | 部署 |
-| [(StableDiffusion) DreamBooth流程全解](https://www.bilibili.com/video/BV1Wc411T7Vt/?spm_id_from=333.999.0.0) | DreamBooth的Few-Shot微调                   | cv   |
+| [(StableDiffusion) DreamBooth流程全解](https://www.bilibili.com/video/BV1Wc411T7Vt/?spm_id_from=333.999.0.0) | DreamBooth教程                  | cv   |
 
 [返回顶部](#目录)
