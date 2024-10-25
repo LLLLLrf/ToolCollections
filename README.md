@@ -13,10 +13,12 @@
 | [Perplexity](https://www.perplexity.ai/)      | 基于LLM的搜索工具，速度快效果好，支持各种格式文件上传    | 检索问答 |
 | [OpenRead](https://www.openread.academy/zh)   | 科研文献搜索、总结、生成关系网，也可自行上传pdf          | 文献阅读 |
 | [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                   | 文献阅读 |
-| [ResearchFlow](https://rflow.ai/zh/dashboard) | 基于LLM的论文解析与思维导图生成工具 | 文献阅读 |
+| [ResearchFlow](https://rflow.ai/zh/dashboard) | 基于LLM的论文解析与思维导图生成工具                      | 文献阅读 |
 | [WolframAlpha](https://www.wolframalpha.com/) | 计算搜索引擎，复杂计算、可视化，可信度高，不支持中文     | 数据计算 |
 | [v0 by Vercel](https://v0.dev/chat)           | 开发必备，直接生成可用的ui界面，支持vue, react等各种语言 | 应用开发 |
-| [JournalFinder](https://journalfinder.elsevier.com/) | 根据摘要关键词找寻适合的期刊 | 期刊查询 |
+| [JournalFinder](https://journalfinder.elsevier.com/) | 根据摘要关键词找寻适合的期刊                     | 期刊查询 |
+| [Gamma](https://gamma.app/)                   | 大模型生成/美化slide                                   | 工作效率 |
+| [NoteboookLM](https://notebooklm.google.com/) | 多模态LLM数据管理检索工具                               | 检索问答 |
 
 ## 高效工作
 
