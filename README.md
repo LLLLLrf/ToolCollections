@@ -10,11 +10,11 @@
 
 | name                                          | description                                              | type     |
 | --------------------------------------------- | -------------------------------------------------------- | -------- |
-| [Perplexity](https://www.perplexity.ai/)      | 基于LLM的搜索工具，速度快效果好，支持各种格式文件上传    | 检索问答 |
-| [OpenRead](https://www.openread.academy/zh)   | 科研文献搜索、总结、生成关系网，也可自行上传pdf          | 文献阅读 |
-| [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                   | 文献阅读 |
-| [ResearchFlow](https://rflow.ai/zh/dashboard) | 基于LLM的论文解析与思维导图生成工具                      | 文献阅读 |
-| [WolframAlpha](https://www.wolframalpha.com/) | 计算搜索引擎，复杂计算、可视化，可信度高，不支持中文     | 数据计算 |
+| [Perplexity](https://www.perplexity.ai/)      | 基于LLM的搜索工具，速度快效果好，支持各种格式文件上传     | 检索问答 |
+| [OpenRead](https://www.openread.academy/zh)   | 科研文献搜索、总结、生成关系网，也可自行上传pdf           | 文献阅读 |
+| [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                  | 文献阅读 |
+| [ResearchFlow](https://rflow.ai/zh/dashboard) | 基于LLM的论文解析与思维导图生成工具                     | 文献阅读 |
+| [WolframAlpha](https://www.wolframalpha.com/) | 计算搜索引擎，复杂计算、可视化，可信度高，不支持中文      | 数据计算 |
 | [v0 by Vercel](https://v0.dev/chat)           | 开发必备，直接生成可用的ui界面，支持vue, react等各种语言 | 应用开发 |
 | [JournalFinder](https://journalfinder.elsevier.com/) | 根据摘要关键词找寻适合的期刊                     | 期刊查询 |
 | [Gamma](https://gamma.app/)                   | 大模型生成/美化slide                                   | 工作效率 |
@@ -36,14 +36,14 @@
 
 | name                                                         | description                      | type |
 | ------------------------------------------------------------ | -------------------------------- | ---- |
-| [Vote on a Presentation - Mentimeter](https://www.menti.com/) | Pre神器，轻松与观众互动          |      |
-| [Mockup Generator & Animator 3D Rotato](https://rotato.app/) | 轻松渲染3D展示动画，含大量3D模型 |      |
-| [Free Google Slides themes and Powerpoint templates Slidesgo](https://slidesgo.com/) | 幻灯片模板集                     |      |
-| [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)               | CS自学网站，方向丰富             |      |
+| [Vote on a Presentation - Mentimeter](https://www.menti.com/) | Pre神器，轻松与观众互动                                 |      |
+| [Mockup Generator & Animator 3D Rotato](https://rotato.app/) | 轻松渲染3D展示动画，含大量3D模型                          |      |
+| [Free Google Slides themes and Powerpoint templates Slidesgo](https://slidesgo.com/) | 幻灯片模板集                    |      |
+| [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)               | CS自学网站，方向丰富                                     |      |
 | [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | 数据结构与算法，可视化           |      |
-| [OI Wiki](https://oi.wiki/)                                  | 经典数据结构与算法wiki           |      |
-| [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                   |      |
-| [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集 |      |
+| [OI Wiki](https://oi.wiki/)                                  | 经典数据结构与算法wiki                                   |      |
+| [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                    |      |
+| [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集                           |      |
 
 ## 宝藏仓库
 | name                                                         | description                         | type   |
