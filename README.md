@@ -32,6 +32,7 @@
 | [Word/PPT代码高亮](http://word.wd1x.com/) | Word/PPT代码高亮，数模可用 | 工作效率 |
 | [Netron 模型可视化](https://github.com/lutzroeder/netron) | 支持多种模型格式，便捷好用 | 工作效率 |
 | [Waka Time](https://wakatime.com/dashboard) | 记录工作量的插件，可与github交互 | 工作记录   |
+| [ChartCube](https://chartcube.alipay.com/) | 在线图表制作  | 绘图工具 |
 
 ## 宝藏网站
 
@@ -45,6 +46,7 @@
 | [OI Wiki](https://oi.wiki/)                                  | 经典数据结构与算法wiki                                   |      |
 | [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                    |      |
 | [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集                           |      |
+| [D.Design堆友](https://d.design/?tab=model) | 模型图片素材库 | |
 
 ## 宝藏仓库
 | name                                                         | description                         | type   |
