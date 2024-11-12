@@ -19,6 +19,8 @@
 | [JournalFinder](https://journalfinder.elsevier.com/) | 根据摘要关键词找寻适合的期刊                     | 期刊查询 |
 | [Gamma](https://gamma.app/)                   | 大模型生成/美化slide                                   | 工作效率 |
 | [NoteboookLM](https://notebooklm.google.com/) | 多模态LLM数据管理检索工具                               | 检索问答 |
+| [Napkin](https://napkin.ai/) | 可视化文本，可用于pre等场景                               | 工作效率 |
+
 
 ## 高效工作
 
