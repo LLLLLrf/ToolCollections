@@ -1,7 +1,7 @@
 - [返回](https://github.com/LLLLLrf/ToolCollections/tree/main)
 - [VScode快捷键](#VScode快捷键)
 - [Edge快捷键](#Edge快捷键)
-- [Windows快捷键](# Windows快捷键)
+- [Windows快捷键](#Windows快捷键)
 
 # VScode快捷键
 **文本编辑**
