@@ -7,7 +7,7 @@
 - [宝藏仓库](#宝藏仓库)
 - [前端开发](#前端开发)
 - [宝藏课程](#宝藏课程)
-- [快捷键集](https://github.com/LLLLLrf/ToolCollections/blob/main/shortcuts.md)
+- [快捷键集-->](https://github.com/LLLLLrf/ToolCollections/blob/main/shortcuts.md)
 
 ## AI生产力
 
