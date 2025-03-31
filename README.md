@@ -31,6 +31,7 @@
 | name                                                         | description         | type     |
 | ------------------------------------------------------------ | ------------------- | -------- |
 | [科研废物导航 (yanweb.top)](https://www.yanweb.top/)         | 科研工具集合        | 工具集   |
+| [Plagium](https://www.plagium.com/en/plagiarismchecker)      | 英文查重查ai工具        | 工具集  |
 | [会议之眼](https://www.conferenceeye.cn/home/submission/1)   | 计算机会议集合      | 科研检索 |
 | [Scopus](https://www.scopus.com/) | 根据作者和机构检索文献 | 工作效率 |
 | [Convertio — 文件转换器](https://convertio.co/zh/)           | 文件转换            | 工作效率 |
